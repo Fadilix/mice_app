@@ -1,13 +1,36 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500&family=Roboto+Condensed:wght@300;400&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+/* hamburger button */
+.hamburger:hover .one{
+    width: 30px;
+    transition: 0.3s all;
+}
+.hamburger:hover .two{
+    width: 5px;
+    transition: 0.3s all;
+}
+.hamburger:hover .three{
+    width: 30px;
+    transition: 0.3s all;
+}
+
+.one, .two, .three{
+    transition: 0.3s all;
+}
+
+.click-ham{
+    background-color: red;
 }
