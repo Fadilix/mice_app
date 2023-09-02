@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/mice_app.com/static/css/main.e94b323a.css",
+    "main.js": "/mice_app.com/static/js/main.f3d4e8d1.js",
+    "static/js/787.8a5a9c46.chunk.js": "/mice_app.com/static/js/787.8a5a9c46.chunk.js",
+    "static/media/ryzen.png": "/mice_app.com/static/media/ryzen.864f69eb525ec8feaf53.png",
+    "static/media/keybrd.png": "/mice_app.com/static/media/keybrd.35492e1be03cd94e7699.png",
+    "static/media/m7.png": "/mice_app.com/static/media/m7.a57cb13e3b402d44ed23.png",
+    "static/media/clix.png": "/mice_app.com/static/media/clix.81d40707f8d2ad93bcf9.png",
+    "static/media/headset.png": "/mice_app.com/static/media/headset.77f8bc0b89e53ce22d9c.png",
+    "static/media/nvidia.png": "/mice_app.com/static/media/nvidia.468c5c5acbbd49463b23.png",
+    "static/media/ninja.png": "/mice_app.com/static/media/ninja.6c66c31c8fa5dad2e1ac.png",
+    "static/media/m1.png": "/mice_app.com/static/media/m1.88fabb10f57a7c124214.png",
+    "static/media/m6.png": "/mice_app.com/static/media/m6.6cff330c9d1f89f6a993.png",
+    "static/media/m3.png": "/mice_app.com/static/media/m3.622fcfc7328b9e8c16ef.png",
+    "static/media/m2.png": "/mice_app.com/static/media/m2.52f6c8b8ca6f7b9e37ed.png",
+    "static/media/m9.png": "/mice_app.com/static/media/m9.194448544301149ed5b3.png",
+    "static/media/m5.png": "/mice_app.com/static/media/m5.2bfdb6698b21202d9ab3.png",
+    "static/media/m4.png": "/mice_app.com/static/media/m4.925ee87be4ee23c4fe99.png",
+    "static/media/revicons.eot": "/mice_app.com/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/mice_app.com/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/mice_app.com/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/mice_app.com/index.html",
+    "main.e94b323a.css.map": "/mice_app.com/static/css/main.e94b323a.css.map",
+    "main.f3d4e8d1.js.map": "/mice_app.com/static/js/main.f3d4e8d1.js.map",
+    "787.8a5a9c46.chunk.js.map": "/mice_app.com/static/js/787.8a5a9c46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e94b323a.css",
+    "static/js/main.f3d4e8d1.js"
+  ]
+}
