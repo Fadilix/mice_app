@@ -13,4 +13,4 @@ User friendly interface for gaming shop - [website live here](https://fadilix.gi
 ![image](https://github.com/Fadilix/mice_app/assets/121851593/b984f55a-8d61-438c-b769-028ec9b96966)
 
 ## Footer
-![image](https://github.com/Fadilix/mice_app/assets/121851593/b46dd0a7-630f-4209-818d-267898b129d3)
+![image](https://github.com/Fadilix/mice_app/assets/121851593/db31d58e-1b4d-40da-8799-60d10a7ef3f2)
