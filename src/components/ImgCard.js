@@ -5,7 +5,7 @@ const ImgCard = ({img}) => {
             <div className="flex bg-gray-700 w-[800px] h-[400px] p-4">
                 <div className="flex flex-col justify-around">
                     <div>
-                        <p>someting</p>
+                        <p>someting </p>
                         <h4 className='text-purple-600 text-3xl'>$29,-</h4>
                     </div>
                     <h1 className="md:text-6xl text-3xl absolute text-gray-800">Mouse</h1>
