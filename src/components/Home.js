@@ -21,8 +21,6 @@ import clix from "../assets/clix.png"
 
 
 
-
-
 const Home = () => {
 
     const pros = [ninja, clix];
@@ -76,18 +74,19 @@ const Home = () => {
             {/* mice */}
             <div id='mice' className="md:grid grid-cols-2 md:gap-4 mt-[100px] mb-[100px] md:space-x-0 space-y-4">
                 {imgcards.map((image, index) => (
-                    <div key={index} className='flex items-stretch '>
-                        <ImgCard img={image} className="flex-grow h-full w-full" />
+                    <div key={index} className='flex mt-[16px]'>
+                        <ImgCard img={image} className="h-full w-full object-cover" />
                     </div>
                 ))}
             </div>
+
 
             {/* Gaming carousel */}
             <div className='mt-[60px] mb-[100px]'>
                 <h1 className='text-center text-3xl font-bold'>Featured Gears</h1>
                 <div className='mt-[40px]'>
 
-                <CustomCarousel img={gamingCarousel} className="" />
+                    <CustomCarousel img={gamingCarousel} className="" />
                 </div>
             </div>
 
@@ -96,7 +95,7 @@ const Home = () => {
             <div className="md:flex md:space-x-4 space-y-4 md:space-y-0 mt-[100px] mb-[200px]">
                 {pros.map((img, index) => (
                     <div key={index}>
-                        <Pros img={img}/>
+                        <Pros img={img} />
                     </div>
                 ))}
             </div>

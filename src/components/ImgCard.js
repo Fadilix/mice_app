@@ -2,7 +2,7 @@ import React from 'react'
 
 const ImgCard = ({img}) => {
     return (
-            <div className="flex bg-gray-700 pl-[10px]">
+            <div className="flex bg-gray-700 w-[800px] h-[400px] p-4">
                 <div className="flex flex-col justify-around">
                     <div>
                         <p>someting</p>
