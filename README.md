@@ -1,5 +1,5 @@
 # Gaming shop
-UI for gaming shop - visit website here https://fadilix.github.io/mice_app/
+User friendly interface for gaming shop - [website live here](https://fadilix.github.io/mice_app/)
 
 # Screenshots
 ## Home Page with Carousel
