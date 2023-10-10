@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mice_app/static/css/main.4b46b12b.css",
-    "main.js": "/mice_app/static/js/main.384b0422.js",
+    "main.css": "/mice_app/static/css/main.3ed73d1b.css",
+    "main.js": "/mice_app/static/js/main.b6f7f318.js",
     "static/js/787.8a5a9c46.chunk.js": "/mice_app/static/js/787.8a5a9c46.chunk.js",
     "static/media/ryzen.png": "/mice_app/static/media/ryzen.864f69eb525ec8feaf53.png",
     "static/media/keybrd.png": "/mice_app/static/media/keybrd.35492e1be03cd94e7699.png",
@@ -21,12 +21,12 @@
     "static/media/revicons.ttf": "/mice_app/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/mice_app/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/mice_app/index.html",
-    "main.4b46b12b.css.map": "/mice_app/static/css/main.4b46b12b.css.map",
-    "main.384b0422.js.map": "/mice_app/static/js/main.384b0422.js.map",
+    "main.3ed73d1b.css.map": "/mice_app/static/css/main.3ed73d1b.css.map",
+    "main.b6f7f318.js.map": "/mice_app/static/js/main.b6f7f318.js.map",
     "787.8a5a9c46.chunk.js.map": "/mice_app/static/js/787.8a5a9c46.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b46b12b.css",
-    "static/js/main.384b0422.js"
+    "static/css/main.3ed73d1b.css",
+    "static/js/main.b6f7f318.js"
   ]
 }
