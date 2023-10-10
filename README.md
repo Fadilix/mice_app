@@ -7,7 +7,7 @@ UI for gaming shop - visit website here https://fadilix.github.io/mice_app/
 ![image](https://github.com/Fadilix/mice_app/assets/121851593/59f2724f-0939-465c-b43e-6c7db9f3fb07)
 
 ## Gaming mouse cards
-![image](https://github.com/Fadilix/mice_app/assets/121851593/764521d1-4bf1-4eb3-91bf-fd31c7dfc8b2)
+![image](https://github.com/Fadilix/mice_app/assets/121851593/453f2768-7953-44df-a634-058f3c109095)
 
 ## Gaming Gear Carousel
 ![image](https://github.com/Fadilix/mice_app/assets/121851593/b984f55a-8d61-438c-b769-028ec9b96966)
